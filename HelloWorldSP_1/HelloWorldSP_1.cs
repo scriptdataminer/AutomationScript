@@ -69,7 +69,7 @@ namespace HelloWorldSP_1
 		public void Run(IEngine engine)
 		{
 			engine.GenerateInformation("Hello world!");
-			engine.GenerateInformation("Qualquer coisa")
+			engine.GenerateInformation("Qualquer coisa");
 		}
 	}
 }
